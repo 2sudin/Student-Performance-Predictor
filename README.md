@@ -61,3 +61,15 @@ Found a strong correlation between attendance and exam scores
 Random Forest achieved 89% accuracy in predicting performance categories
 
 Identified clusters of students at risk, allowing early intervention
+
+📁 student-performance-mining/
+├── 📁 data/
+│   └── students_synthetic.csv
+├── 📁 notebooks/
+│   └── analysis.ipynb
+├── 📁 models/
+│   └── rf_model.pkl
+├── 📁 visuals/
+│   └── correlation_heatmap.png
+├── README.md
+└── requirements.txt
